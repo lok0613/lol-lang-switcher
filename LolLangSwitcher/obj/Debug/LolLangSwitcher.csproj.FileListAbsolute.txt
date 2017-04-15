@@ -1,0 +1,14 @@
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\MainWindow.g.cs
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\App.g.cs
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher_MarkupCompile.cache
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher_MarkupCompile.lref
+C:\code\LolLangSwitcher\LolLangSwitcher\bin\Debug\LolLangSwitcher.exe.config
+C:\code\LolLangSwitcher\LolLangSwitcher\bin\Debug\LolLangSwitcher.exe
+C:\code\LolLangSwitcher\LolLangSwitcher\bin\Debug\LolLangSwitcher.pdb
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\MainWindow.baml
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.g.resources
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.Properties.Resources.resources
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.csproj.GenerateResource.Cache
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.exe
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.pdb
+C:\code\LolLangSwitcher\LolLangSwitcher\obj\Debug\LolLangSwitcher.csprojResolveAssemblyReference.cache
